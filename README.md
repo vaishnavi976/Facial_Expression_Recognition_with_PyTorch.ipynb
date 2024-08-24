@@ -27,3 +27,6 @@ Pooling Layers: To reduce spatial dimensions.
 Fully Connected Layers: For classification into different facial expression categories.
 
 Softmax Layer: To output the probability distribution across the expression classes.
+# Dataset available at kaggle
+
+https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
