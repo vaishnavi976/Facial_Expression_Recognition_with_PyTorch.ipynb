@@ -191,11 +191,3 @@ def view_classify(img, ps):
 
     return None
 
-
-
-"""# For updates about upcoming and current guided projects follow me on...
-
-Twitter : @parth_AI
-
-Linkedin : www.linkedin.com/in/pdhameliya
-"""
